@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Configurator>
+  <module type="0x01" name="Main Board" version="2.0.0.4" file="./UpdateConfig/RM2016_JudgeSystem_2.0.0.4_DisSignal.bin" />
+  <module type="0x02" name="Strick Sensor" version="1.7.1.1" file="./UpdateConfig/StrikeModule1.7.1.1--simulation_strike.bin" />
+  <module type="0x03" name="Speed Detect" version="1.7.1.16" file="./UpdateConfig/UWB_MeasureSpeed_1.7.1.16_ChangWai50hz.bin" />
+  <module type="0x04" name="RFID" version="1.0.0.10" file="./UpdateConfig/RFID_Scan_1.0.0.10.bin" />
+  <module type="0x05" name="Blood Bar" version="1.0.1.4" file="./UpdateConfig/FW_led0_1.0.1.4.bin" />
+  <module type="0x06" name="Camera" version="1.0.0.4" file="./UpdateConfig/CameraOfCan1.0.04.bin" />
+  <module type="0x08" name="WireLess" version="1.0.2.3" file="./UpdateConfig/WifiApp_1.0.2.3.bin" />
+</Configurator>
